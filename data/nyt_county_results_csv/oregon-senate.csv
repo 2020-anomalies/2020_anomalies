@@ -1,0 +1,37 @@
+absentee_count_progress,absentee_max_ballots,absentee_method,absentee_outstanding,absentee_votes,eevp,eevp_display,eevp_source,eevp_value,fips,last_updated,leader_margin_display,leader_margin_name_display,leader_margin_value,leader_party_id,name,precincts,provisional_count_progress,provisional_outstanding,reporting,tot_exp_vote,turnout_stage,votes,dyeg__total_count,libertarian__total_count,merkleyj__total_count,democrat__total_count,perkinsj__total_count,republican__total_count,taheri__total_count,progressive__total_count,write-ins__total_count,dyeg__absentee_count,merkleyj__absentee_count,perkinsj__absentee_count,taheri__absentee_count,write-ins__absentee_count
+unknown,,Other,,0,97,97% reported,edison,97%,41001,2020-11-04T10:43:30Z,R+43,Perkins +43,43.43299,republican,Baker,17,,,16,10008,2,9700,174,174,2618,2618,6831,6831,70,70,14,0,0,0,0,0
+some,,Other,,0,92,92% reported,edison,92%,41003,2020-11-04T10:43:31Z,D+39,Merkley +39,39.00109,democrat,Benton,24,,,22,55578,2,51396,1013,1013,34637,34637,14592,14592,1102,1102,104,0,0,0,0,0
+some,,Other,,0,100,>98% reported,edison,>98%,41005,2020-11-07T14:00:39Z,D+11,Merkley +11,11.30858,democrat,Clackamas,120,,,120,244004,2,246229,4658,4658,132629,132629,104784,104784,3884,3884,548,0,0,0,0,0
+unknown,,Other,,0,100,>98% reported,edison,>98%,41007,2020-11-07T14:00:47Z,D+15,Merkley +15,14.90033,democrat,Clatsop,33,,,33,22417,2,23127,423,423,12871,12871,9425,9425,379,379,58,0,0,0,0,0
+unknown,,Other,,0,100,>98% reported,edison,>98%,41009,2020-11-04T10:43:33Z,R+5,Perkins +5,4.95574,republican,Columbia,33,,,33,30345,2,30954,739,739,14076,14076,15610,15610,490,490,78,0,0,0,0,0
+some,,Other,,0,100,>98% reported,edison,>98%,41011,2020-11-04T10:43:34Z,R+14,Perkins +14,14.32148,republican,Coos,18,,,18,35697,2,35548,655,655,14666,14666,19757,19757,449,449,42,0,0,0,0,0
+unknown,,Other,,0,96,96% reported,edison,96%,41013,2020-11-04T10:43:35Z,R+43,Perkins +43,43.07899,republican,Crook,17,,,17,15500,2,14875,237,237,4046,4046,10454,10454,114,114,48,0,0,0,0,0
+unknown,,Other,,0,100,>98% reported,edison,>98%,41015,2020-11-05T02:01:45Z,R+12,Perkins +12,12.48537,republican,Curry,27,,,27,14377,2,14529,268,268,6136,6136,7950,7950,168,168,14,0,0,0,0,0
+unknown,,Other,,0,100,>98% reported,edison,>98%,41017,2020-11-04T11:15:49Z,D+10,Merkley +10,9.69525,democrat,Deschutes,50,,,50,112355,2,119378,2129,2129,63512,63512,51938,51938,1679,1679,240,0,0,0,0,0
+some,,Other,,0,100,>98% reported,edison,>98%,41019,2020-11-04T10:43:36Z,R+31,Perkins +31,30.83761,republican,Douglas,28,,,28,61014,2,61532,1175,1175,20341,20341,39316,39316,637,637,126,0,0,0,0,0
+unknown,,Other,,0,97,97% reported,edison,97%,41021,2020-11-04T16:30:49Z,R+33,Perkins +33,33.41947,republican,Gilliam,3,,,3,1192,2,1161,18,18,372,372,760,760,8,8,6,0,0,0,0,0
+unknown,,Other,,0,98,98% reported,edison,98%,41023,2020-11-04T10:43:36Z,R+48,Perkins +48,47.91991,republican,Grant,5,,,5,4574,6,4495,89,89,1110,1110,3264,3264,27,27,10,0,0,0,0,0
+unknown,,Other,,0,96,96% reported,edison,96%,41025,2020-11-04T10:43:37Z,R+49,Perkins +49,49.25476,republican,Harney,3,,,3,4530,2,4361,64,64,1053,1053,3201,3201,37,37,12,0,0,0,0,0
+unknown,,Other,,0,100,>98% reported,edison,>98%,41027,2020-11-04T10:43:37Z,D+37,Merkley +37,37.28692,democrat,Hood River,13,,,13,12437,2,12554,222,222,8408,8408,3727,3727,191,191,12,0,0,0,0,0
+some,,Other,,0,98,98% reported,edison,98%,41029,2020-11-04T10:43:37Z,R+1.8,Perkins +1.8,1.79349,republican,Jackson,45,,,44,124633,4,122387,2149,2149,58049,58049,60244,60244,1835,1835,220,0,0,0,0,0
+some,,Other,,0,100,>98% reported,edison,>98%,41031,2020-11-04T10:43:38Z,R+19,Perkins +19,18.85744,republican,Jefferson,15,,,15,10783,4,11518,197,197,4505,4505,6677,6677,124,124,30,0,0,0,0,0
+some,,Other,,0,96,96% reported,edison,96%,41033,2020-11-05T02:01:45Z,R+22,Perkins +22,22.04895,republican,Josephine,47,,,45,50798,2,48864,921,921,18186,18186,28960,28960,737,737,120,0,0,0,0,0
+unknown,,Other,,0,100,>98% reported,edison,>98%,41035,2020-11-04T10:43:39Z,R+34,Perkins +34,34.37904,republican,Klamath,43,,,43,34778,2,35606,690,690,11109,11109,23350,23350,429,429,56,0,0,0,0,0
+all,,Other,,0,95,95% reported,edison,95%,41037,2020-11-04T14:46:48Z,R+55,Perkins +55,55.17811,republican,Lake,19,,,17,4480,4,4239,61,61,903,903,3242,3242,29,29,8,0,0,0,0,0
+some,,Other,,0,98,98% reported,edison,98%,41039,2020-11-05T02:01:45Z,D+26,Merkley +26,26.35969,democrat,Lane,80,,,78,218823,4,213633,3728,3728,130833,130833,74520,74520,4322,4322,460,0,0,0,0,0
+unknown,,Other,,0,100,>98% reported,edison,>98%,41041,2020-11-04T10:43:42Z,D+19,Merkley +19,19.43888,democrat,Lincoln,32,,,32,28792,4,29940,530,530,17347,17347,11527,11527,512,512,48,0,0,0,0,0
+some,,Other,,0,100,>98% reported,edison,>98%,41043,2020-11-04T10:43:43Z,R+20,Perkins +20,19.68063,republican,Linn,90,,,90,66940,2,69261,1568,1568,26474,26474,40105,40105,1022,1022,184,0,0,0,0,0
+unknown,,Other,,0,96,96% reported,edison,96%,41045,2020-11-04T10:43:43Z,R+39,Perkins +39,39.41829,republican,Malheur,24,,,23,11896,2,11449,223,223,3293,3293,7806,7806,120,120,14,0,0,0,0,0
+unknown,,Other,,0,100,>98% reported,edison,>98%,41047,2020-11-06T02:00:37Z,D+2,Merkley +2,2.16567,democrat,Marion,122,,,122,155998,4,157919,3108,3108,77727,77727,74307,74307,2574,2574,406,0,0,0,0,0
+unknown,,Other,,0,100,>98% reported,edison,>98%,41049,2020-11-04T10:43:44Z,R+35,Perkins +35,35.28703,republican,Morrow,5,,,5,4750,2,4982,108,108,1537,1537,3295,3295,39,39,6,0,0,0,0,0
+some,,Other,,0,99,>98% reported,edison,>98%,41051,2020-11-07T14:00:38Z,D+61,Merkley +61,61.33592,democrat,Multnomah,113,,,111,454977,2,449443,6633,6633,353291,353291,77621,77621,11392,11392,1012,0,0,0,0,0
+all,,Other,,0,100,>98% reported,edison,>98%,41053,2020-11-04T10:43:44Z,R+0.19,Perkins +0.19,0.18676,republican,Polk,16,,,16,46585,6,46585,900,900,22424,22424,22511,22511,699,699,102,0,0,0,0,0
+unknown,,Other,,0,100,>98% reported,edison,>98%,41055,2020-11-04T10:43:44Z,R+46,Perkins +46,46.32479,republican,Sherman,5,,,5,1165,2,1170,26,26,298,298,840,840,6,6,0,0,0,0,0,0
+all,,Other,,0,100,>98% reported,edison,>98%,41057,2020-11-04T10:43:45Z,D+3,Merkley +3,3.0056,democrat,Tillamook,29,,,29,15735,2,16436,267,267,8220,8220,7726,7726,211,211,24,0,0,0,0,0
+unknown,,Other,,0,100,>98% reported,edison,>98%,41059,2020-11-04T10:43:45Z,R+27,Perkins +27,27.0937,republican,Umatilla,45,,,45,31461,2,31738,675,675,11053,11053,19652,19652,328,328,60,0,0,0,0,0
+unknown,,Other,,0,98,98% reported,edison,98%,41061,2020-11-04T10:43:45Z,R+35,Perkins +35,35.20099,republican,Union,19,,,19,14784,2,14528,230,230,4516,4516,9630,9630,141,141,22,0,0,0,0,0
+unknown,,Other,,0,100,>98% reported,edison,>98%,41063,2020-11-04T10:43:45Z,R+31,Perkins +31,30.85907,republican,Wallowa,12,,,12,4977,4,5052,64,64,1696,1696,3255,3255,37,37,0,0,0,0,0,0
+unknown,,Other,,0,100,>98% reported,edison,>98%,41065,2020-11-04T10:43:46Z,D+0.60,Merkley +0.60,0.60338,democrat,Wasco,14,,,14,13639,2,13590,274,274,6591,6591,6509,6509,203,203,26,0,0,0,0,0
+all,,Other,,0,100,>98% reported,edison,>98%,41067,2020-11-07T14:00:45Z,D+33,Merkley +33,33.1517,democrat,Washington,143,,,143,306924,4,308871,6052,6052,199374,199374,96978,96978,6055,6055,824,0,0,0,0,0
+unknown,,Other,,0,96,96% reported,edison,96%,41069,2020-11-04T10:43:47Z,R+41,Perkins +41,41.07527,republican,Wheeler,3,,,3,967,2,930,16,16,262,262,644,644,8,8,0,0,0,0,0,0
+unknown,,Other,,0,100,>98% reported,edison,>98%,41071,2020-11-07T14:00:38Z,R+2,Perkins +2,2.05046,republican,Yamhill,22,,,22,55578,2,55646,1267,1267,26168,26168,27309,27309,851,851,102,0,0,0,0,0

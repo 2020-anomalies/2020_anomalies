@@ -1,0 +1,15 @@
+absentee_count_progress,absentee_max_ballots,absentee_method,absentee_outstanding,absentee_votes,eevp,eevp_display,eevp_source,eevp_value,fips,last_updated,leader_margin_display,leader_margin_name_display,leader_margin_value,leader_party_id,name,precincts,provisional_count_progress,provisional_outstanding,reporting,tot_exp_vote,turnout_stage,votes,markeye__total_count,democrat__total_count,oconnork__total_count,independent__total_count,write-ins__total_count,markeye__absentee_count,oconnork__absentee_count,write-ins__absentee_count
+,,,,0,,,edison,,25001,2020-11-04T10:43:43Z,D+21,Markey +21,21.33658,democrat,Barnstable,65,,,63,,,145206,87728,87728,56746,56746,1464,0,0,0
+,,,,0,,,edison,,25003,2020-11-05T20:09:31Z,D+50,Markey +50,50.27003,democrat,Berkshire,59,,,46,,,58512,43814,43814,14400,14400,596,0,0,0
+,,,,15237,,,edison,,25005,2020-11-04T10:43:28Z,D+15,Markey +15,15.00784,democrat,Bristol,172,,,160,,,266474,152261,160947,112269,118708,4000,8686,6439,112
+,,,,0,,,edison,,25007,2020-11-06T23:28:27Z,D+55,Markey +55,55.24194,democrat,Dukes,7,,,6,,,12400,9604,9604,2754,2754,84,0,0,0
+,,,,0,,,edison,,25009,2020-11-05T18:23:50Z,D+30,Markey +30,29.93819,democrat,Essex,240,,,225,,,402556,260142,260142,139624,139624,5580,0,0,0
+,,,,848,,,edison,,25011,2020-11-05T19:18:45Z,D+48,Markey +48,47.90375,democrat,Franklin,40,,,24,,,24520,17963,18600,6217,6428,680,637,211,0
+,,,,5478,,,edison,,25013,2020-11-04T10:43:35Z,D+18,Markey +18,18.34757,democrat,Hampden,166,,,147,,,205395,120254,123713,82569,84588,5144,3459,2019,0
+,,,,4853,,,edison,,25015,2020-11-04T10:43:31Z,D+47,Markey +47,46.59662,democrat,Hampshire,56,,,49,,,84137,61291,63700,22086,24476,1574,2409,2390,54
+,,,,10596,,,edison,,25017,2020-11-04T10:43:28Z,D+44,Markey +44,43.62642,democrat,Middlesex,474,,,436,,,813287,581405,588429,226597,230119,10620,7024,3522,50
+,,,,4460,,,edison,,25019,2020-11-04T10:43:41Z,D+43,Markey +43,43.10369,democrat,Nantucket,1,,,1,,,7185,5127,8625,2030,2987,61,3498,957,5
+,,,,15760,,,edison,,25021,2020-11-04T22:55:07Z,D+32,Markey +32,32.48708,democrat,Norfolk,211,,,176,,,339889,224242,236717,113822,117075,3682,12475,3253,32
+,,,,40218,,,edison,,25023,2020-11-05T19:19:13Z,D+9,Markey +9,9.1205,democrat,Plymouth,143,,,113,,,253166,137356,164523,114266,127178,3227,27167,12912,139
+,,,,0,,,edison,,25025,2020-11-05T19:33:54Z,D+63,Markey +63,63.19048,democrat,Suffolk,298,,,294,,,305891,248846,248846,55552,55552,2986,0,0,0
+,,,,14517,,,edison,,25027,2020-11-04T10:43:28Z,D+18,Markey +18,18.36292,democrat,Worcester,242,,,220,,,396560,232213,241603,159393,164427,10001,9390,5034,93

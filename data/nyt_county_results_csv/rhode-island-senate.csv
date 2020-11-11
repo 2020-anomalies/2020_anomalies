@@ -1,0 +1,6 @@
+absentee_count_progress,absentee_max_ballots,absentee_method,absentee_outstanding,absentee_votes,eevp,eevp_display,eevp_source,eevp_value,fips,last_updated,leader_margin_display,leader_margin_name_display,leader_margin_value,leader_party_id,name,precincts,provisional_count_progress,provisional_outstanding,reporting,tot_exp_vote,turnout_stage,votes,reedj__total_count,democrat__total_count,watersa__total_count,republican__total_count,reedj__absentee_count,watersa__absentee_count
+,,,,0,,,edison,,44001,2020-11-06T21:48:45Z,D+40,Reed +40,39.65736,democrat,Bristol,17,,,15,,,26850,18749,18749,8101,8101,0,0
+,,,,0,,,edison,,44003,2020-11-06T21:48:41Z,D+21,Reed +21,21.47824,democrat,Kent,70,,,67,,,89025,54073,54073,34952,34952,0,0
+,,,,0,,,edison,,44005,2020-11-06T21:48:49Z,D+38,Reed +38,38.27616,democrat,Newport,31,,,27,,,43322,29952,29952,13370,13370,0,0
+,,,,0,,,edison,,44007,2020-11-06T21:48:41Z,D+36,Reed +36,36.23763,democrat,Providence,259,,,228,,,252936,172297,172297,80639,80639,0,0
+,,,,0,,,edison,,44009,2020-11-06T21:48:41Z,D+28,Reed +28,28.10508,democrat,Washington,44,,,44,,,72172,46228,46228,25944,25944,0,0

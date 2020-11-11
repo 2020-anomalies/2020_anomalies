@@ -1,0 +1,11 @@
+absentee_count_progress,absentee_max_ballots,absentee_method,absentee_outstanding,absentee_votes,eevp,eevp_display,eevp_source,eevp_value,fips,last_updated,leader_margin_display,leader_margin_name_display,leader_margin_value,leader_party_id,name,precincts,provisional_count_progress,provisional_outstanding,reporting,tot_exp_vote,turnout_stage,votes,messnerc__total_count,republican__total_count,odonnellj__total_count,libertarian__total_count,shaheenj__total_count,democrat__total_count,write-ins__total_count,messnerc__absentee_count,odonnellj__absentee_count,shaheenj__absentee_count,write-ins__absentee_count
+,,,,2483,,,edison,,33001,2020-11-04T10:44:02Z,D+0.53,Shaheen +0.53,0.53396,democrat,Belknap,16,,,15,,,38018,18506,19768,765,824,18709,19860,87,1262,59,1151,11
+,,,,0,,,edison,,33003,2020-11-04T10:44:00Z,D+9,Shaheen +9,9.24891,democrat,Carroll,18,,,18,,,32739,14608,14608,491,491,17636,17636,8,0,0,0,0
+,,,,0,,,edison,,33005,2020-11-04T17:21:30Z,D+24,Shaheen +24,23.54265,democrat,Cheshire,27,,,27,,,44001,16258,16258,1115,1115,26617,26617,22,0,0,0,0
+,,,,0,,,edison,,33007,2020-11-05T01:25:37Z,D+10,Shaheen +10,9.50601,democrat,Coos,26,,,26,,,16316,7196,7196,362,362,8747,8747,22,0,0,0,0
+,,,,231,,,edison,,33009,2020-11-04T10:43:54Z,D+30,Shaheen +30,29.63434,democrat,Grafton,41,,,40,,,53465,18199,18318,1216,1224,34043,34147,14,119,8,104,0
+,,,,271,,,edison,,33011,2020-11-04T10:43:57Z,D+15,Shaheen +15,15.23623,democrat,Hillsborough,50,,,47,,,225187,92621,92728,5628,5633,126931,127090,14,107,5,159,0
+,,,,0,,,edison,,33013,2020-11-04T10:43:54Z,D+20,Shaheen +20,19.52521,democrat,Merrimack,38,,,37,,,89008,34770,34770,2070,2070,52149,52149,38,0,0,0,0
+,,,,3185,,,edison,,33015,2020-11-04T10:44:02Z,D+10,Shaheen +10,9.59443,democrat,Rockingham,41,,,40,,,196906,86941,88526,4113,4215,105833,107330,39,1585,102,1497,1
+,,,,2943,,,edison,,33017,2020-11-06T21:26:56Z,D+25,Shaheen +25,24.61849,democrat,Strafford,27,,,27,,,72868,26462,27345,1947,2004,44401,46404,116,883,57,2003,0
+,,,,0,,,edison,,33019,2020-11-05T01:39:04Z,D+12,Shaheen +12,11.95841,democrat,Sullivan,17,,,17,,,24142,10296,10296,662,662,13183,13183,2,0,0,0,0

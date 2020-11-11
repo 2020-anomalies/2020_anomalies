@@ -1,0 +1,11 @@
+absentee_count_progress,absentee_max_ballots,absentee_method,absentee_outstanding,absentee_votes,eevp,eevp_display,eevp_source,eevp_value,fips,last_updated,leader_margin_display,leader_margin_name_display,leader_margin_value,leader_party_id,name,precincts,provisional_count_progress,provisional_outstanding,reporting,tot_exp_vote,turnout_stage,votes,bidenj__total_count,democrat__total_count,jorgensenj__total_count,libertarian__total_count,trumpd__total_count,republican__total_count,write-ins__total_count,bidenj__absentee_count,jorgensenj__absentee_count,trumpd__absentee_count,write-ins__absentee_count
+,,,,2500,,,edison,,33001,2020-11-04T10:43:41Z,R+10,Trump +10,10.45406,republican,Belknap,16,,,15,,,38387,16857,17877,598,633,20870,22293,146,1020,35,1423,22
+,,,,0,,,edison,,33003,2020-11-04T10:43:37Z,D+1.7,Biden +1.7,1.67014,democrat,Carroll,18,,,18,,,33111,16618,16618,377,377,16065,16065,102,0,0,0,0
+,,,,0,,,edison,,33005,2020-11-04T10:43:35Z,D+17,Biden +17,17.21719,democrat,Cheshire,27,,,26,,,44200,25502,25502,797,797,17892,17892,18,0,0,0,0
+,,,,0,,,edison,,33007,2020-11-05T01:25:18Z,R+6,Trump +6,5.97322,republican,Coos,26,,,26,,,16507,7625,7625,258,258,8611,8611,26,0,0,0,0
+,,,,235,,,edison,,33009,2020-11-04T10:43:30Z,D+25,Biden +25,24.58834,democrat,Grafton,41,,,40,,,53989,33180,33269,881,884,19905,20048,46,89,3,143,0
+,,,,273,,,edison,,33011,2020-11-04T10:43:34Z,D+7,Biden +7,6.7145,democrat,Hillsborough,50,,,47,,,230531,120032,120185,5847,5851,104553,104669,198,153,4,116,0
+,,,,0,,,edison,,33013,2020-11-04T10:43:31Z,D+10,Biden +10,9.84052,democrat,Merrimack,38,,,37,,,89477,48323,48323,1554,1554,39518,39518,164,0,0,0,0
+,,,,3221,,,edison,,33015,2020-11-04T10:43:38Z,D+2,Biden +2,2.11408,democrat,Rockingham,41,,,40,,,198952,100064,101424,2885,2947,95858,97644,303,1360,62,1786,13
+,,,,2946,,,edison,,33017,2020-11-06T21:29:47Z,D+15,Biden +15,15.21119,democrat,Strafford,27,,,27,,,73676,41693,43620,1364,1412,30486,31457,266,1927,48,971,0
+,,,,0,,,edison,,33019,2020-11-05T01:38:49Z,D+4,Biden +4,3.69382,democrat,Sullivan,17,,,17,,,24365,12390,12390,482,482,11490,11490,6,0,0,0,0

@@ -1,0 +1,65 @@
+absentee_count_progress,absentee_max_ballots,absentee_method,absentee_outstanding,absentee_votes,eevp,eevp_display,eevp_source,eevp_value,fips,last_updated,leader_margin_display,leader_margin_name_display,leader_margin_value,leader_party_id,name,precincts,provisional_count_progress,provisional_outstanding,reporting,tot_exp_vote,turnout_stage,votes,doaner__total_count,libertarian__total_count,doyled__total_count,Apv__total_count,evanss__total_count,unity__total_count,gardnerc__total_count,republican__total_count,hickenlooperj__total_count,democrat__total_count,write-ins__total_count,doaner__absentee_count,doyled__absentee_count,evanss__absentee_count,gardnerc__absentee_count,hickenlooperj__absentee_count,write-ins__absentee_count
+all,,Other,,0,100,>98% reported,edison,>98%,08001,2020-11-05T02:19:42Z,D+14,Hickenlooper +14,13.55702,democrat,Adams,260,,,260,228525,4,233628,4847,4847,1065,1065,949,949,97547,97547,129220,129220,0,0,0,0,0,0,0
+unknown,,Other,,0,91,91% reported,edison,91%,08003,2020-11-04T10:43:36Z,R+1.1,Gardner +1.1,1.1186,republican,Alamosa,8,,,7,8188,4,7420,94,94,38,38,23,23,3674,3674,3591,3591,0,0,0,0,0,0,0
+some,,Other,,0,97,97% reported,edison,97%,08005,2020-11-05T23:11:36Z,D+19,Hickenlooper +19,19.28638,democrat,Arapahoe,390,,,376,357594,4,345311,5596,5596,1062,1062,1095,1095,135480,135480,202078,202078,0,0,0,0,0,0,0
+all,,Other,,0,100,>98% reported,edison,>98%,08007,2020-11-04T10:43:37Z,R+18,Gardner +18,18.10529,republican,Archuleta,8,,,8,8577,6,8909,158,158,26,26,14,14,5162,5162,3549,3549,0,0,0,0,0,0,0
+unknown,,Other,,0,99,>98% reported,edison,>98%,08009,2020-11-04T10:43:37Z,R+68,Gardner +68,67.83734,republican,Baca,9,,,8,2193,6,2164,31,31,12,12,7,7,1791,1791,323,323,0,0,0,0,0,0,0
+unknown,,Other,,0,100,>98% reported,edison,>98%,08011,2020-11-04T10:43:37Z,R+34,Gardner +34,34.28313,republican,Bent,5,,,5,2131,2,2211,32,32,26,26,7,7,1452,1452,694,694,0,0,0,0,0,0,0
+some,,Other,,0,87,87% reported,edison,87%,08013,2020-11-06T15:08:35Z,D+53,Hickenlooper +53,52.97405,democrat,Boulder,240,,,208,222008,2,193087,2600,2600,294,294,401,401,43753,43753,146039,146039,0,0,0,0,0,0,0
+all,,Other,,0,100,>98% reported,edison,>98%,08014,2020-11-05T01:06:41Z,D+21,Hickenlooper +21,20.75603,democrat,Broomfield,37,,,37,40958,6,45871,695,695,81,81,98,98,17738,17738,27259,27259,0,0,0,0,0,0,0
+unknown,,Other,,0,100,>98% reported,edison,>98%,08015,2020-11-04T10:43:38Z,D+5,Hickenlooper +5,4.52995,democrat,Chaffee,9,,,9,13275,2,13488,231,231,32,32,22,22,6296,6296,6907,6907,0,0,0,0,0,0,0
+some,,Other,,0,91,91% reported,edison,91%,08017,2020-11-04T10:43:38Z,R+78,Gardner +78,78.35616,republican,Cheyenne,5,,,4,1209,4,1095,7,7,2,2,2,2,971,971,113,113,0,0,0,0,0,0,0
+some,,Other,,0,91,91% reported,edison,91%,08019,2020-11-04T10:43:39Z,D+11,Hickenlooper +11,10.97365,democrat,Clear Creek,9,,,8,6824,2,6224,110,110,15,15,10,10,2703,2703,3386,3386,0,0,0,0,0,0,0
+all,,Other,,0,100,>98% reported,edison,>98%,08021,2020-11-04T10:43:40Z,R+7,Gardner +7,6.50734,republican,Conejos,10,,,9,4113,6,4226,24,24,18,18,9,9,2225,2225,1950,1950,0,0,0,0,0,0,0
+some,,Other,,0,93,93% reported,edison,93%,08023,2020-11-04T10:43:42Z,D+29,Hickenlooper +29,28.97335,democrat,Costilla,8,,,7,2181,4,2026,38,38,12,12,9,9,690,690,1277,1277,0,0,0,0,0,0,0
+unknown,,Other,,0,100,>98% reported,edison,>98%,08025,2020-11-04T10:43:43Z,R+45,Gardner +45,44.74753,republican,Crowley,6,,,6,1675,4,1723,36,36,11,11,7,7,1220,1220,449,449,0,0,0,0,0,0,0
+all,,Other,,0,98,98% reported,edison,98%,08027,2020-11-04T20:15:43Z,R+38,Gardner +38,38.44852,republican,Custer,3,,,3,3618,4,3545,62,62,9,9,7,7,2415,2415,1052,1052,0,0,0,0,0,0,0
+all,,Other,,0,97,97% reported,edison,97%,08029,2020-11-04T10:43:44Z,R+38,Gardner +38,38.08359,republican,Delta,20,,,19,19812,4,19213,306,306,79,79,33,33,13055,13055,5738,5738,4,0,0,0,0,0,0
+some,,Other,,0,90,90% reported,edison,90%,08031,2020-11-06T23:25:34Z,D+60,Hickenlooper +60,59.82112,democrat,Denver,356,,,318,391585,2,350515,3887,3887,782,782,1066,1066,67545,67545,277227,277227,16,0,0,0,0,0,0
+all,,Other,,0,100,>98% reported,edison,>98%,08033,2020-11-04T10:43:44Z,R+52,Gardner +52,51.52374,republican,Dolores,4,,,4,1389,6,1411,17,17,4,4,4,4,1056,1056,329,329,2,0,0,0,0,0,0
+all,,Other,,0,100,>98% reported,edison,>98%,08035,2020-11-06T23:09:35Z,R+14,Gardner +14,14.01024,republican,Douglas,169,,,169,222171,6,230460,3242,3242,328,328,342,342,129418,129418,97130,97130,0,0,0,0,0,0,0
+some,,Other,,0,99,>98% reported,edison,>98%,08037,2020-11-04T10:43:45Z,D+26,Hickenlooper +26,26.02452,democrat,Eagle,30,,,28,28427,6,28062,378,378,51,51,58,58,10136,10136,17439,17439,0,0,0,0,0,0,0
+some,,Other,,0,100,>98% reported,edison,>98%,08041,2020-11-06T18:52:35Z,R+16,Gardner +16,15.94742,republican,El Paso,291,,,288,371068,2,373214,9725,9725,1438,1438,1287,1287,210141,210141,150623,150623,0,0,0,0,0,0,0
+unknown,,Other,,0,98,98% reported,edison,98%,08039,2020-11-04T23:32:41Z,R+53,Gardner +53,53.20779,republican,Elbert,15,,,14,18854,2,18533,283,283,35,35,24,24,14026,14026,4165,4165,0,0,0,0,0,0,0
+unknown,,Other,,0,96,96% reported,edison,96%,08043,2020-11-04T10:43:46Z,R+41,Gardner +41,40.85005,republican,Fremont,30,,,29,25928,2,24869,502,502,123,123,71,71,17166,17166,7007,7007,0,0,0,0,0,0,0
+all,,Other,,0,96,96% reported,edison,96%,08045,2020-11-04T23:54:41Z,R+0.20,Gardner +0.20,0.19918,republican,Garfield,27,,,26,31235,4,30124,589,589,88,88,67,67,14709,14709,14649,14649,44,0,0,0,0,0,0
+unknown,,Other,,0,99,>98% reported,edison,>98%,08047,2020-11-04T10:43:47Z,D+7,Hickenlooper +7,7.40382,democrat,Gilpin,6,,,6,4160,2,4133,98,98,15,15,10,10,1852,1852,2158,2158,0,0,0,0,0,0,0
+unknown,,Other,,0,95,95% reported,edison,95%,08049,2020-11-05T02:19:42Z,R+5,Gardner +5,5.23359,republican,Grand,12,,,11,10134,2,9611,171,171,27,27,14,14,4951,4951,4448,4448,0,0,0,0,0,0,0
+all,,Other,,0,98,98% reported,edison,98%,08051,2020-11-04T10:43:50Z,D+27,Hickenlooper +27,27.02453,democrat,Gunnison,15,,,15,11106,2,10842,186,186,28,28,14,14,3842,3842,6772,6772,0,0,0,0,0,0,0
+unknown,,Other,,0,94,94% reported,edison,94%,08053,2020-11-04T10:43:50Z,R+19,Gardner +19,19.38611,republican,Hinsdale,1,,,1,658,4,619,9,9,0,0,2,2,364,364,244,244,0,0,0,0,0,0,0
+all,,Other,,0,99,>98% reported,edison,>98%,08055,2020-11-04T10:43:51Z,R+1.8,Gardner +1.8,1.76849,republican,Huerfano,11,,,11,4389,6,4354,96,96,25,25,12,12,2149,2149,2072,2072,0,0,0,0,0,0,0
+all,,Other,,0,99,>98% reported,edison,>98%,08057,2020-11-04T10:43:51Z,R+60,Gardner +60,59.9537,republican,Jackson,5,,,4,873,6,864,12,12,5,5,1,1,682,682,164,164,0,0,0,0,0,0,0
+all,,Other,,0,100,>98% reported,edison,>98%,08059,2020-11-06T00:18:35Z,D+14,Hickenlooper +14,13.88412,democrat,Jefferson,309,,,299,348372,4,376077,6161,6161,1014,1014,841,841,157923,157923,210138,210138,0,0,0,0,0,0,0
+unknown,,Other,,0,95,95% reported,edison,95%,08061,2020-11-04T10:43:51Z,R+78,Gardner +78,77.52809,republican,Kiowa,4,,,4,938,2,890,10,10,3,3,1,1,783,783,93,93,0,0,0,0,0,0,0
+unknown,,Other,,0,92,92% reported,edison,92%,08063,2020-11-04T10:43:52Z,R+66,Gardner +66,65.9176,republican,Kit Carson,13,,,11,4061,2,3738,33,33,8,8,5,5,3078,3078,614,614,0,0,0,0,0,0,0
+all,,Other,,0,100,>98% reported,edison,>98%,08067,2020-11-05T20:49:35Z,D+14,Hickenlooper +14,14.27759,democrat,La Plata,32,,,31,35280,6,35167,624,624,70,70,98,98,14677,14677,19698,19698,0,0,0,0,0,0,0
+unknown,,Other,,0,98,98% reported,edison,98%,08065,2020-11-04T10:43:52Z,D+20,Hickenlooper +20,19.63877,democrat,Lake,6,,,6,4000,2,3931,107,107,15,15,21,21,1508,1508,2280,2280,0,0,0,0,0,0,0
+some,,Other,,0,94,94% reported,edison,94%,08069,2020-11-05T01:21:41Z,D+10,Hickenlooper +10,10.14189,democrat,Larimer,280,,,260,227992,4,215305,3886,3886,541,541,468,468,94287,94287,116123,116123,0,0,0,0,0,0,0
+unknown,,Other,,0,97,97% reported,edison,97%,08071,2020-11-04T10:43:53Z,R+9,Gardner +9,9.09207,republican,Las Animas,16,,,16,8097,2,7864,127,127,45,45,23,23,4192,4192,3477,3477,0,0,0,0,0,0,0
+unknown,,Other,,0,98,98% reported,edison,98%,08073,2020-11-04T10:43:53Z,R+65,Gardner +65,64.78443,republican,Lincoln,13,,,12,2672,2,2621,39,39,17,17,5,5,2129,2129,431,431,0,0,0,0,0,0,0
+unknown,,Other,,0,90,90% reported,edison,90%,08075,2020-11-04T10:43:54Z,R+58,Gardner +58,57.65444,republican,Logan,16,,,14,11472,2,10360,129,129,37,37,29,29,8069,8069,2096,2096,0,0,0,0,0,0,0
+all,,Other,,0,92,92% reported,edison,92%,08077,2020-11-04T10:43:54Z,R+30,Gardner +30,30.30181,republican,Mesa,57,,,52,91631,4,84094,1560,1560,428,428,204,204,53692,53692,28210,28210,0,0,0,0,0,0,0
+unknown,,Other,,0,100,>98% reported,edison,>98%,08079,2020-11-04T10:43:54Z,R+18,Gardner +18,17.61589,republican,Mineral,1,,,1,715,2,755,15,15,1,1,2,2,435,435,302,302,0,0,0,0,0,0,0
+unknown,,Other,,0,94,94% reported,edison,94%,08081,2020-11-04T10:43:55Z,R+65,Gardner +65,65.17104,republican,Moffat,13,,,11,7158,4,6753,104,104,31,31,9,9,5505,5505,1104,1104,0,0,0,0,0,0,0
+all,,Other,,0,100,>98% reported,edison,>98%,08083,2020-11-04T10:43:56Z,R+25,Gardner +25,24.64947,republican,Montezuma,11,,,11,15120,6,15120,268,268,45,45,64,64,9235,9235,5508,5508,0,0,0,0,0,0,0
+some,,Other,,0,99,>98% reported,edison,>98%,08085,2020-11-04T10:43:57Z,R+39,Gardner +39,38.78476,republican,Montrose,28,,,28,24999,2,24703,399,399,90,90,55,55,16870,16870,7289,7289,0,0,0,0,0,0,0
+unknown,,Other,,0,94,94% reported,edison,94%,08087,2020-11-04T10:43:59Z,R+43,Gardner +43,43.07274,republican,Morgan,18,,,17,14113,2,13252,130,130,68,68,34,34,9364,9364,3656,3656,0,0,0,0,0,0,0
+some,,Other,,0,93,93% reported,edison,93%,08089,2020-11-04T23:40:44Z,R+25,Gardner +25,24.90815,republican,Otero,17,,,15,9973,2,9254,112,112,67,67,28,28,5676,5676,3371,3371,0,0,0,0,0,0,0
+some,,Other,,0,100,>98% reported,edison,>98%,08091,2020-11-04T10:43:59Z,D+17,Hickenlooper +17,17.13269,democrat,Ouray,5,,,5,3906,4,3934,66,66,3,3,3,3,1594,1594,2268,2268,0,0,0,0,0,0,0
+unknown,,Other,,0,98,98% reported,edison,98%,08093,2020-11-04T10:43:23Z,R+19,Gardner +19,19.10833,republican,Park,13,,,13,12292,2,12000,276,276,30,30,33,33,6977,6977,4684,4684,0,0,0,0,0,0,0
+unknown,,Other,,0,96,96% reported,edison,96%,08095,2020-11-04T10:43:23Z,R+62,Gardner +62,61.9281,republican,Phillips,8,,,7,2558,2,2448,22,22,6,6,0,0,1968,1968,452,452,0,0,0,0,0,0,0
+some,,Other,,0,95,95% reported,edison,95%,08097,2020-11-04T10:43:23Z,D+49,Hickenlooper +49,49.39934,democrat,Pitkin,10,,,9,12417,4,11737,127,127,13,13,19,19,2890,2890,8688,8688,0,0,0,0,0,0,0
+unknown,,Other,,0,92,92% reported,edison,92%,08099,2020-11-04T10:43:23Z,R+46,Gardner +46,46.19905,republican,Prowers,13,,,12,5919,2,5446,53,53,26,26,17,17,3933,3933,1417,1417,0,0,0,0,0,0,0
+unknown,,Other,,0,93,93% reported,edison,93%,08101,2020-11-05T04:54:41Z,D+0.91,Hickenlooper +0.91,0.90645,democrat,Pueblo,128,,,118,92802,4,85940,1659,1659,529,529,303,303,41335,41335,42114,42114,0,0,0,0,0,0,0
+all,,Other,,0,96,96% reported,edison,96%,08103,2020-11-04T23:00:42Z,R+69,Gardner +69,69.44444,republican,Rio Blanco,5,,,4,3785,4,3636,46,46,13,13,2,2,3050,3050,525,525,0,0,0,0,0,0,0
+all,,Other,,0,100,>98% reported,edison,>98%,08105,2020-11-04T10:43:23Z,R+18,Gardner +18,18.05245,republican,Rio Grande,15,,,14,6280,6,6254,84,84,38,38,17,17,3622,3622,2493,2493,0,0,0,0,0,0,0
+all,,Other,,0,100,>98% reported,edison,>98%,08107,2020-11-04T10:43:24Z,D+24,Hickenlooper +24,24.02679,democrat,Routt,18,,,18,16503,2,16723,219,219,38,38,24,24,6212,6212,10230,10230,0,0,0,0,0,0,0
+all,,Other,,0,100,>98% reported,edison,>98%,08109,2020-11-04T10:43:24Z,D+14,Hickenlooper +14,14.19568,democrat,Saguache,7,,,7,3332,6,3332,55,55,11,11,21,21,1386,1386,1859,1859,0,0,0,0,0,0,0
+unknown,,Other,,0,98,98% reported,edison,98%,08111,2020-11-04T10:43:24Z,D+22,Hickenlooper +22,22.0,democrat,San Juan,1,,,1,563,6,550,10,10,2,2,3,3,207,207,328,328,0,0,0,0,0,0,0
+some,,Other,,0,99,>98% reported,edison,>98%,08113,2020-11-04T10:43:25Z,D+52,Hickenlooper +52,51.69811,democrat,San Miguel,6,,,6,5108,4,5035,74,74,2,2,8,8,1174,1174,3777,3777,0,0,0,0,0,0,0
+unknown,,Other,,0,96,96% reported,edison,96%,08115,2020-11-04T10:43:25Z,R+54,Gardner +54,54.26195,republican,Sedgwick,5,,,4,1497,2,1443,14,14,9,9,1,1,1101,1101,318,318,0,0,0,0,0,0,0
+some,,Other,,0,96,96% reported,edison,96%,08117,2020-11-04T10:43:26Z,D+35,Hickenlooper +35,34.59095,democrat,Summit,20,,,19,19085,2,18262,348,348,24,24,37,37,5768,5768,12085,12085,0,0,0,0,0,0,0
+unknown,,Other,,0,98,98% reported,edison,98%,08119,2020-11-04T10:43:26Z,R+38,Gardner +38,37.53309,republican,Teller,13,,,13,17044,2,16620,333,333,54,54,21,21,11225,11225,4987,4987,0,0,0,0,0,0,0
+unknown,,Other,,0,98,98% reported,edison,98%,08121,2020-11-04T10:43:27Z,R+76,Gardner +76,75.65632,republican,Washington,6,,,5,2998,2,2933,20,20,4,4,6,6,2561,2561,342,342,0,0,0,0,0,0,0
+all,,Other,,0,100,>98% reported,edison,>98%,08123,2020-11-04T21:50:41Z,R+21,Gardner +21,21.49759,republican,Weld,156,,,156,159805,4,164544,2700,2700,458,458,369,369,98195,98195,62822,62822,0,0,0,0,0,0,0
+unknown,,Other,,0,93,93% reported,edison,93%,08125,2020-11-04T10:43:27Z,R+73,Gardner +73,73.0848,republican,Yuma,14,,,12,5255,2,4882,28,28,18,18,4,4,4200,4200,632,632,0,0,0,0,0,0,0

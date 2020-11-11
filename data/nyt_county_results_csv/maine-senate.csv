@@ -1,0 +1,17 @@
+absentee_count_progress,absentee_max_ballots,absentee_method,absentee_outstanding,absentee_votes,eevp,eevp_display,eevp_source,eevp_value,fips,last_updated,leader_margin_display,leader_margin_name_display,leader_margin_value,leader_party_id,name,precincts,provisional_count_progress,provisional_outstanding,reporting,tot_exp_vote,turnout_stage,votes,collinss__total_count,republican__total_count,gideons__total_count,democrat__total_count,linnm__total_count,independent__total_count,savagel__total_count,write-ins__total_count,collinss__absentee_count,gideons__absentee_count,linnm__absentee_count,savagel__absentee_count,write-ins__absentee_count
+,,,,17257,,,edison,,23001,2020-11-04T10:44:10Z,R+18,Collins +18,18.01593,republican,Androscoggin,24,,,23,,,58143,32622,40054,22147,30870,1344,4245,1824,437,7432,8723,275,802,25
+,,,,0,,,edison,,23003,2020-11-04T10:43:54Z,R+38,Collins +38,37.72619,republican,Aroostook,67,,,43,,,32439,21463,21463,9225,9225,646,1627,981,248,0,0,0,0,0
+,,,,22464,,,edison,,23005,2020-11-04T10:43:56Z,D+16,Gideon +16,16.41361,democrat,Cumberland,49,,,46,,,184152,70104,76979,100330,114253,2085,10740,7015,9262,6875,13923,264,1376,26
+,,,,0,,,edison,,23007,2020-11-04T10:43:50Z,R+19,Collins +19,18.72867,republican,Franklin,22,,,12,,,14064,7815,7815,5181,5181,257,1035,778,66,0,0,0,0,0
+,,,,2676,,,edison,,23009,2020-11-04T14:32:30Z,R+8,Collins +8,7.50573,republican,Hancock,42,,,29,,,31003,15592,16714,13265,14607,613,2337,1515,39,1122,1342,58,151,3
+,,,,821,,,edison,,23011,2020-11-04T10:43:30Z,R+16,Collins +16,16.4262,republican,Kennebec,32,,,30,,,70004,38423,38867,26924,27242,1298,4678,3322,75,444,318,13,45,1
+,,,,0,,,edison,,23013,2020-11-04T10:43:57Z,D+1.7,Gideon +1.7,1.7189,democrat,Knox,18,,,15,,,25365,11545,11545,11981,11981,394,1835,1441,8,0,0,0,0,0
+,,,,1837,,,edison,,23015,2020-11-04T10:44:01Z,R+11,Collins +11,11.18975,republican,Lincoln,19,,,16,,,20769,10937,11578,8613,9655,304,1338,890,60,641,1042,29,115,10
+,,,,0,,,edison,,23017,2020-11-06T18:51:13Z,R+24,Collins +24,23.56964,republican,Oxford,37,,,27,,,31880,18644,18644,11130,11130,609,2042,1433,128,0,0,0,0,0
+,,,,4200,,,edison,,23019,2020-11-04T19:18:00Z,R+22,Collins +22,22.29349,republican,Penobscot,61,,,41,,,77794,45091,46461,27748,30216,1498,5061,3208,505,1370,2468,64,291,7
+,,,,0,,,edison,,23021,2020-11-04T20:28:02Z,R+40,Collins +40,39.68202,republican,Piscataquis,20,,,13,,,9183,6121,6121,2477,2477,204,577,373,16,0,0,0,0,0
+,,,,0,,,edison,,23023,2020-11-04T10:43:38Z,R+3,Collins +3,3.20729,republican,Sagadahoc,10,,,10,,,24039,11558,11558,10787,10787,336,1691,1355,6,0,0,0,0,0
+,,,,1526,,,edison,,23025,2020-11-04T17:20:54Z,R+36,Collins +36,36.08869,republican,Somerset,34,,,18,,,22550,14394,15086,6256,6960,420,2015,1465,30,692,704,22,108,0
+,,,,0,,,edison,,23027,2020-11-04T16:53:03Z,R+10,Collins +10,10.33716,republican,Waldo,28,,,25,,,22927,11695,11695,9325,9325,365,1887,1522,40,0,0,0,0,0
+,,,,0,,,edison,,23029,2020-11-04T10:43:45Z,R+33,Collins +33,33.20975,republican,Washington,46,,,20,,,11328,7229,7229,3467,3467,239,623,384,18,0,0,0,0,0
+,,,,8437,,,edison,,23031,2020-11-05T23:47:13Z,R+4,Collins +4,3.83956,republican,York,43,,,41,,,122540,59994,63512,55289,59659,2108,7726,5086,143,3518,4370,155,377,17

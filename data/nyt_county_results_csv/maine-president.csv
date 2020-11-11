@@ -1,0 +1,17 @@
+absentee_count_progress,absentee_max_ballots,absentee_method,absentee_outstanding,absentee_votes,eevp,eevp_display,eevp_source,eevp_value,fips,last_updated,leader_margin_display,leader_margin_name_display,leader_margin_value,leader_party_id,name,precincts,provisional_count_progress,provisional_outstanding,reporting,tot_exp_vote,turnout_stage,votes,bidenj__total_count,democrat__total_count,de_la_fuenter__total_count,Ali__total_count,hawkinsh__total_count,green__total_count,jorgensenj__total_count,libertarian__total_count,trumpd__total_count,republican__total_count,write-ins__total_count,bidenj__absentee_count,de_la_fuenter__absentee_count,hawkinsh__absentee_count,jorgensenj__absentee_count,trumpd__absentee_count,write-ins__absentee_count
+,,,,17255,,,edison,,23001,2020-11-04T10:43:37Z,R+3,Trump +3,2.87732,republican,Androscoggin,24,,,23,,,58770,27568,38407,105,132,593,795,1076,1330,29259,35160,370,10839,27,202,254,5901,32
+,,,,0,,,edison,,23003,2020-11-04T10:44:12Z,R+19,Trump +19,18.71401,republican,Aroostook,67,,,45,,,33686,13318,13318,52,52,232,232,379,379,19622,19622,166,0,0,0,0,0,0
+,,,,22650,,,edison,,23005,2020-11-04T10:44:13Z,D+36,Biden +36,35.61422,democrat,Cumberland,49,,,48,,,193945,128563,145470,332,355,2217,2462,2953,3210,59491,64606,881,16907,23,245,257,5115,103
+,,,,0,,,edison,,23007,2020-11-04T10:44:10Z,R+1.9,Trump +1.9,1.91322,republican,Franklin,22,,,13,,,14635,6889,6889,26,26,155,155,301,301,7169,7169,190,0,0,0,0,0,0
+,,,,3337,,,edison,,23009,2020-11-04T14:30:07Z,D+14,Biden +14,14.37869,democrat,Hancock,42,,,32,,,33035,18412,20278,40,47,354,393,506,578,13662,14995,142,1866,7,39,72,1333,20
+,,,,821,,,edison,,23011,2020-11-04T10:43:58Z,D+0.22,Biden +0.22,0.22276,democrat,Kennebec,32,,,30,,,70029,33957,34371,88,88,713,721,1376,1390,33801,34181,193,414,0,8,14,380,5
+,,,,0,,,edison,,23013,2020-11-04T10:44:14Z,D+19,Biden +19,19.47595,democrat,Knox,18,,,15,,,25303,14798,14798,34,34,243,243,347,347,9870,9870,22,0,0,0,0,0,0
+,,,,1828,,,edison,,23015,2020-11-04T10:44:15Z,D+9,Biden +9,9.41198,democrat,Lincoln,19,,,17,,,22142,11807,13114,32,37,181,197,377,396,9723,10202,46,1307,5,16,19,479,2
+,,,,0,,,edison,,23017,2020-11-06T14:46:14Z,R+9,Trump +9,8.88533,republican,Oxford,37,,,27,,,31884,14027,14027,45,45,322,322,589,589,16860,16860,82,0,0,0,0,0,0
+,,,,4223,,,edison,,23019,2020-11-04T19:17:36Z,R+6,Trump +6,6.05478,republican,Penobscot,61,,,41,,,77955,35267,38307,122,129,684,746,1710,1809,39987,40967,405,3040,7,62,99,980,35
+,,,,0,,,edison,,23021,2020-11-04T20:27:21Z,R+26,Trump +26,26.34432,republican,Piscataquis,20,,,13,,,9224,3273,3273,12,12,59,59,166,166,5703,5703,22,0,0,0,0,0,0
+,,,,0,,,edison,,23023,2020-11-04T10:43:52Z,D+16,Biden +16,15.70585,democrat,Sagadahoc,10,,,10,,,24042,13531,13531,32,32,248,248,474,474,9755,9755,4,0,0,0,0,0,0
+,,,,1524,,,edison,,23025,2020-11-04T17:02:56Z,R+21,Trump +21,21.01237,republican,Somerset,34,,,20,,,23529,8971,9888,27,34,188,203,396,412,13915,14478,70,917,7,15,16,563,6
+,,,,0,,,edison,,23027,2020-11-04T10:43:50Z,D+5,Biden +5,5.09099,democrat,Waldo,28,,,26,,,23905,12156,12156,32,32,343,343,402,402,10939,10939,66,0,0,0,0,0,0
+,,,,0,,,edison,,23029,2020-11-04T10:44:09Z,R+20,Trump +20,19.81315,republican,Washington,46,,,20,,,11346,4409,4409,18,18,85,85,167,167,6657,6657,20,0,0,0,0,0,0
+,,,,8476,,,edison,,23031,2020-11-05T23:47:14Z,D+14,Biden +14,14.01194,democrat,York,43,,,43,,,130346,72363,77869,195,217,1232,1317,2138,2251,54099,56795,692,5506,22,85,113,2696,54
